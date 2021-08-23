@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
-import SignUpComponent from "./SignUpComponent"
+import SignUpComponent from "./SignUpYup"
 
 class RootComponent extends React.Component {
 
